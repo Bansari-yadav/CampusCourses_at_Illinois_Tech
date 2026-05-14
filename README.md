@@ -19,14 +19,20 @@ Many students face challenges while selecting courses because course information
 - Support academic planning and decision-making
 
 ## Folder Structure
+## Updated Project Structure
 
-```text
 CampusCourses_at_Illinois_Tech/
-│
-├── data/        # Datasets or course information files
-├── notebooks/  # Jupyter notebooks for exploration and analysis
-├── src/         # Python source code
-├── reports/    # Final reports, summaries, and outputs
-├── images/     # Screenshots, diagrams, and visual assets
-├── docs/        # Extra documentation
-└── README.md   # Project documentation
+
+- FRONTEND/ : User interface and website frontend
+- BACKEND/ : Data, backend logic, notebooks, and reports
+- docs/ : Project documentation
+- images/ : Screenshots, diagrams, and design images
+- README.md : Main project documentation
+
+## Frontend Focus
+
+The frontend will include the main website interface where users can search, filter, compare, and save Illinois Tech courses.
+
+## Backend Focus
+
+The backend will manage course data, cleaning, processing, and future API logic.
