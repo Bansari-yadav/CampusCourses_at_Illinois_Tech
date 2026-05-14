@@ -18,7 +18,6 @@ Many students face challenges while selecting courses because course information
 - Help students compare courses before registration
 - Support academic planning and decision-making
 
-## Folder Structure
 ## Updated Project Structure
 
 CampusCourses_at_Illinois_Tech/
